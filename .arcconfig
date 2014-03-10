@@ -1,4 +1,6 @@
 {
   "project_id" : "Test Project",
-  "conduit_uri" : "https://phab.milesplit.com/"
+  "conduit_uri" : "http://phab.milesplit.com/",
+  "repository.callsign": "GWTEST",
+  "arc.land.onto.default": "development"
 }
